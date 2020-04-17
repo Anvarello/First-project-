@@ -1,0 +1,32 @@
+/* add your CSS here */
+#card { border: solid;
+  border-style:  solid ;
+padding:15px;
+  width:250px;}
+
+.animal-info {border:solid;
+  padding: 10px;}
+
+ul{
+list-style: none;
+padding-left: 0;
+}
+
+li{list-style: none; }
+
+span{
+font-weight: bold;
+}
+
+p{font-style: italic}
+
+#container {
+width: 310px;
+border:  solid #DCDCDC;
+box-shadow: 6px 6px 1px 0px #EBEBEB;
+padding-right: .2em;
+padding-left: .7em;
+padding-bottom: .6em;}
+
+
+
